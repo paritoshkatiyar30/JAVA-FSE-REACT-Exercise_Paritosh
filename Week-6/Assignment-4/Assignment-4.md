@@ -111,3 +111,10 @@ git branch -d GitWork
 ```bash
 git log --oneline --graph --decorate
 ```
+
+## Final Output
+
+*(Below is the screenshot showing the successful merge and the commit history graph)*
+
+![Git Log Final Output](final_output_screenshot.png) 
+*(Note: Please place your attached screenshot in this folder and name it `final_output_screenshot.png` to display it here).*
